@@ -1,0 +1,29 @@
+p {
+    font-size: 23px;  
+}
+
+h1{
+	font-size: 40px;
+	color: navy;
+}
+
+/*group selector's*/
+h1, p{
+	font-family: sans-serif;
+}
+
+/*nesting */
+li h4 {
+	color: #9C27B0;
+	text-transform: uppercase;
+	font-family:cursive;
+}
+
+#blog-desc{
+	color: #215015;
+}
+
+#blog-title:hover {
+	color: orange;
+}
+
